@@ -5,8 +5,8 @@ A hands-on lab demonstrating how to create a Windows Azure Virtual Machine
 https://www.loom.com/share/ccb531b20153476585cd2b9cf220c01c
  ## 🏹 Objective
  Set up and configure a windows virtual machine in azure
- ## Skills Practiced
+ ## 🤹 Skills Practiced
  Resource Group creation
- Virtual machine Settings configuration such as :
-  ### Virtual Machine Name
-  ### Subscription
+ ### Virtual machine Settings configuration such as :
+  1 Virtual Machine Name
+  2 Subscription

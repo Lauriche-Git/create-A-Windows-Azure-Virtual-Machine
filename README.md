@@ -8,5 +8,5 @@ https://www.loom.com/share/ccb531b20153476585cd2b9cf220c01c
  ## 🤹 Skills Practiced
  Resource Group creation
  ### Virtual machine Settings configuration such as :
-  1 Virtual Machine Name
-  2 Subscription
+  #### 1 Virtual Machine Name
+  #### 2 Subscription

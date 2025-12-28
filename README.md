@@ -14,10 +14,10 @@ https://www.loom.com/share/ccb531b20153476585cd2b9cf220c01c
  ## 🤹 Skills Practiced
  #### Resource Group creation
  #### Virtual machine Settings configuration such as :
- ##### 1 Virtual Machine Name
- ##### 2 Subscription
- ##### 3 Resource Group creation
- ##### 4 creation of Administrator Account
+  . Virtual Machine Name
+. Subscription
+.Resource Group creation
+.creation of Administrator Account
 
 ## 🪚  Tools Used
 1. Microsoft Azure portal

@@ -24,11 +24,21 @@ https://www.loom.com/share/ccb531b20153476585cd2b9cf220c01c
 2. Windows server 2022
 
 ## 🚶‍♂️‍➡️  Steps Performed
-1.Log in to the Azure Portal, create an account , then click on create button and select Azure virtual machine
+1.  Log in to the Azure Portal, create an account , then click on create button and select Azure virtual machine
 2. create a Resource Group
-3. Created virtual machine " Lauriche-VM "  
-4. Configured Basic Settings : Region , Availability Options , Security Type , Image , VM Architecture , and size
-5. Create an administrative account , set up inbound ports , set up disk , Subnet.
-6. Valide information and create Virtual Machine
+3.   Created virtual machine " Lauriche-VM "
+4.   <img width="686" height="524" alt="1" src="https://github.com/user-attachments/assets/1ae8a271-fd07-482f-83f3-ccd0d2b2892d" />
+
+5.  Configured Basic Settings : Region , Availability Options , Security Type , Image , VM Architecture , and size
+6.  <img width="539" height="400" alt="2" src="https://github.com/user-attachments/assets/df368c75-20e9-4597-9d01-b99ffcfd5b55" />
+
+7.  Create an administrative account , set up inbound ports , set up disk , Subnet.
+8.  <img width="700" height="329" alt="3" src="https://github.com/user-attachments/assets/aca853aa-19ea-42ec-bf0e-8f9a8270a8a6" />
+
+9.  Valide information and create Virtual Machine
+<img width="783" height="245" alt="4" src="https://github.com/user-attachments/assets/8add266b-4260-4c3e-a49c-03c7352ca068" />
+
+## 🍃  Outcome
+Successfully configured an azure virtual machine  and verified that the machine was operational.
 
  

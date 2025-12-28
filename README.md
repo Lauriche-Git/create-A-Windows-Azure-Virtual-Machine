@@ -25,7 +25,8 @@ https://www.loom.com/share/ccb531b20153476585cd2b9cf220c01c
 1.  Log in to the Azure Portal, create an account , then click on create button and select Azure virtual machine
 2. create a Resource Group
 3.   Created virtual machine " Lauriche-VM "
-     img width="686" height="524" alt="1" src="https://github.com/user-attachments/assets/1ae8a271-fd07-482f-83f3-ccd0d2b2892d" />
+     <img width="686" height="524" alt="1" src="https://github.com/user-attachments/assets/0ee0acd0-1be9-49d1-89ed-37875a5a0f15" />
+
 
 4.  Configured Basic Settings : Region , Availability Options , Security Type , Image , VM Architecture , and size
     <img width="539" height="400" alt="2" src="https://github.com/user-attachments/assets/df368c75-20e9-4597-9d01-b99ffcfd5b55" />

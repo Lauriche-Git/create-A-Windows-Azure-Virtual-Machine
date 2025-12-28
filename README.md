@@ -24,19 +24,18 @@ https://www.loom.com/share/ccb531b20153476585cd2b9cf220c01c
 ## 🚶‍♂️‍➡️  Steps Performed
 1.  Log in to the Azure Portal, create an account , then click on create button and select Azure virtual machine
 2. create a Resource Group
- <img width="686" height="524" alt="1" src="https://github.com/user-attachments/assets/d34f2e7d-256a-4631-9022-84ffa7cecb1b" />
+ <img width="686" height="524" alt="1" src="https://github.com/user-attachments/assets/d34f2e7d-256a-4631-9022-84ffa7cecb1b" /> 
 
-4.   Created virtual machine " Lauriche-VM "
-5.  Configured Basic Settings : Region , Availability Options , Security Type , Image , VM Architecture , and size
+3.   Created virtual machine " Lauriche-VM "
+4.  Configured Basic Settings : Region , Availability Options , Security Type , Image , VM Architecture , and size
   <img width="539" height="400" alt="2" src="https://github.com/user-attachments/assets/df368c75-20e9-4597-9d01-b99ffcfd5b55" />
 
-6.  Create an administrative account , set up inbound ports , set up disk , Subnet.
+5.  Create an administrative account , set up inbound ports , set up disk , Subnet.
    <img width="700" height="329" alt="3" src="https://github.com/user-attachments/assets/aca853aa-19ea-42ec-bf0e-8f9a8270a8a6" />
 
-8.  Valide information and create Virtual Machine
+6.  Valide information and create Virtual Machine
     <img width="783" height="245" alt="4" src="https://github.com/user-attachments/assets/8add266b-4260-4c3e-a49c-03c7352ca068" />
 
-##
 ## 🍃  Outcome
 Successfully configured an azure virtual machine  and verified that the machine was operational.
 

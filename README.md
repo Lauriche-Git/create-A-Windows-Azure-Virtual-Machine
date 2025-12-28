@@ -20,8 +20,8 @@ https://www.loom.com/share/ccb531b20153476585cd2b9cf220c01c
  ##### 4 creation of Administrator Account
 
 ## 🪚  Tools Used
-### Microsoft Azure portal
-### Windows server 2022
+1. Microsoft Azure portal
+2. Windows server 2022
 
 
  

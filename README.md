@@ -36,6 +36,7 @@ This lab helps build foundational cloud infrastructure skills commonly used in r
 2. Click Create a resource
 3. Select Azure Virtual Machine
 <img width="686" height="524" alt="1" src="https://github.com/user-attachments/assets/d914d2f3-0cd4-4d3c-a01b-09ea21a73e88" />
+
 ###
 
 ### 2️⃣ Create a Resource Group
@@ -47,6 +48,7 @@ This lab helps build foundational cloud infrastructure skills commonly used in r
 1.  Virtual Machine Name: Lauriche-VM
 2.  Selected appropriate subscription and resource group
 <img width="686" height="524" alt="1" src="https://github.com/user-attachments/assets/0f969349-4bfb-4afa-bb8a-ab077b2fceb1" />
+
 ###
 
 ### 4️⃣ Configure Basic Settings
@@ -58,6 +60,7 @@ Configured the following VM settings:
 5.  VM architecture
 6.  VM size (based on performance needs)
 <img width="539" height="400" alt="2" src="https://github.com/user-attachments/assets/0168240d-8c2e-4108-861a-fb45075a51e3" />
+
 ###
 
 ### 5️⃣ Administrator Account & Networking Configuration    
@@ -72,6 +75,7 @@ Configured the following VM settings:
 2. Clicked Validate + Create
 3. Successfully deployed the virtual machine
 <img width="783" height="245" alt="4" src="https://github.com/user-attachments/assets/52dfcbc8-9640-4b76-ba5b-d83b3865bc2c" />
+
 ###
 
 ## 🍃  Outcome

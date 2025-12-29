@@ -68,6 +68,7 @@ Configured the following VM settings:
 2. Configured inbound port rules (RDP – Port 3389)
 3. Set up: OS disk ,  Virtual network ,  Subnet
 <img width="700" height="329" alt="3" src="https://github.com/user-attachments/assets/a35b84b2-50bb-4159-9a9e-bfbc17e59df6" />
+
 ##
 
 ### 6️⃣ Validation & Deployment
